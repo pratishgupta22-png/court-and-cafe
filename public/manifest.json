@@ -1,28 +1,13 @@
 {
-
-  "short_name": "Court & Cafe",
-  "name": "Court & Cafe",
-  "icons": [
-    {
-      "src": "/pwa-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/pwa-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "/pwa-maskable-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "maskable"
-    }
-  ],
-  "start_url": "/",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "dir": "ltr",
   "display": "standalone",
-  "scope": "/"
+  "name": "court-and-cafe.versel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "court&amp;cafe",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "laggy",
+  "description": "court and cafe app"
 }
