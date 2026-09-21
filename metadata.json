@@ -1,0 +1,6 @@
+{
+  "name": "Court & Cafe",
+  "description": "Court & Cafe - Premier Championship Indoor Pickleball Arena, Artisanal Kitchen & Social Sports Club Lounge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
