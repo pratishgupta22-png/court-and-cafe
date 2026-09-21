@@ -1,13 +1,13 @@
 {
-  "background_color": "#ffffff",
+  "backgroundcolor": "#000000",
   "dir": "ltr",
   "display": "standalone",
-  "name": "court-and-cafe.versel",
+  "name": "courtandcafe.versel",
   "orientation": "any",
   "scope": "/",
-  "short_name": "court&amp;cafe",
+  "short_name": "court&cafe",
   "start_url": "/",
-  "theme_color": "#ffffff",
+  "themecolor": "#000000",
   "id": "laggy",
   "description": "court and cafe app"
 }
